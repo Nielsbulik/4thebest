@@ -1,0 +1,21 @@
+{
+  "name": "4thebest",
+  "short_name": "4thebest",
+  "description": "App de formation professionnelle",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f1117",
+  "theme_color": "#5865f2",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/5865f2/ffffff?text=4B",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/5865f2/ffffff?text=4B",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
